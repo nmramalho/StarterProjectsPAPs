@@ -14,4 +14,5 @@ Templates para início de projetos com PHP, MySQL/MAriaDB. Estes templates foram
 
 # Autor
 Nuno Ramalho nmramalho@550nmr.com
+site: www.550nmr.com
 
