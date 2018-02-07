@@ -10,7 +10,7 @@ Templates para início de projetos com PHP, MySQL/MAriaDB. Estes templates foram
 
 # Instalação
 * Colocar os ficheiros na pasta do servidor Web (por exemplo: c:\xampp\htdocs)
-* Editar o ficheiro de configuração **configuracao.php
+* Editar o ficheiro de configuração **configuracao.php**
 
 #Autor 
 Nuno Ramalho nmramalho@550nmr.com
